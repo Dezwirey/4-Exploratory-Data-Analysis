@@ -1,4 +1,7 @@
 # Exploratory Data Analysis Course
-First assignment for course number three in Data Science Specialization.
+Assignment for course number three in Data Science Specialization.
 
-With a given dataset, these are the four scripts to generate the four plots.
+## Data for assignment 1
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+## Data for assignment 2
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
